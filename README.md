@@ -1,0 +1,1 @@
+For a basic ATM (Automated Teller Machine) project in Java, you'll want to cover essential functionalities such as account balance checking, cash withdrawal, cash deposit, and possibly account balance inquiry. Here's a simplified version of an ATM project focusing on these core functionalities
